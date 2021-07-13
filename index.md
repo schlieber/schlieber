@@ -1,12 +1,11 @@
 # Simon Schlieber
-# schlieber.net
 ### let's see
 
-[Twitter](https://www.twitter.com/schlieber)
+[Simon Schlieber on Twitter](https://www.twitter.com/schlieber)
 
+[Simon Schlieber @ Apple Music](https://music.apple.com/profile/schlieber)
+[Simon Schlieber](https://schlieber.net)
 
-
-# Simon Schlieber
 ## Welcome
 _under construction_
 
