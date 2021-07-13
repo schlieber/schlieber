@@ -1,6 +1,6 @@
 ---
 title: Welcome
-layout: page
+layout: post
 post-image: https://raw.githubusercontent.com/schlieber/schlieber/main/Background-Dark.png
 description: This post will guide you to install WhatATheme on your Jekyll site, follow
   the easy steps to set up WhatATheme.
