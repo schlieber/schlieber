@@ -1,13 +1,13 @@
 ---
-title: How to Install and use WhatATheme?
+title: Welcome
 layout: page
-post-image: https://github.com/schlieber/schlieber/blob/fb124fd0ad75af11be62482577001d1bf26b5687/Background-Dark.png
+post-image: https://raw.githubusercontent.com/schlieber/schlieber/main/Background-Dark.png
 description: This post will guide you to install WhatATheme on your Jekyll site, follow
   the easy steps to set up WhatATheme.
 tags:
-- how to
-- setup
-- theme
+- Tag1
+- Simon
+- SImon2
 ---
 
 ## Simon Schlieber
