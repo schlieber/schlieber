@@ -8,7 +8,7 @@ Currently building up the Site. will be a link aggregator of Sorts.
 
 [Simon Schlieber Apple Music](https://music.apple.com/profile/schlieber)
 
-[Simon's Facebook](https://www-facebook.com/schlieber)
+[Simon's Facebook](https://www.facebook.com/schlieber)
 
 [Simons public Amazon](https://www.amazon.de/gp/profile/amzn1.account.AG4ZVXNXBR2RZK4MZVRC6DQR2QVA)
 
