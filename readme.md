@@ -22,7 +22,7 @@ Currently building up the Site. will be a link aggregator of Sorts.
 
 [Flickr](https://www.flickr.com/people/schlieber/)
 
-[Become Simon Schlieber's Patron](https://www.patreon.cpom/schlieber)
+[Become Simon Schlieber's Patron](https://www.patreon.com/schlieber)
 
 [GitHub](https://www.github.com/schlieber)
 
