@@ -22,6 +22,10 @@ Currently building up the Site. will be a link aggregator of Sorts.
 
 [Flickr](https://www.flickr.com/people/schlieber/)
 
-[Patreon](https://www.patreon.cpom/schlieber)
+[Become Simon Schlieber's Patron](https://www.patreon.cpom/schlieber)
 
-[GitHub](https://www.github.com)
+[GitHub](https://www.github.com/schlieber)
+
+[Send Simon Schlieber a Tip on PayPal](https://www.paypal.me/schlieber)
+
+[Buy Simon Schlieber a coffe] (https://www.buymeacoffee.com/schlieber)
