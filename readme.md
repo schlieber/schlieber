@@ -22,4 +22,6 @@ Currently building up the Site. will be a link aggregator of Sorts.
 
 [Flickr](https://www.flickr.com/people/schlieber/)
 
+[Patreon](https://www.patreon.cpom/schlieber)
+
 [GitHub](https://www.github.com)
