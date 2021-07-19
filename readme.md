@@ -45,3 +45,5 @@ Currently building up the Site. will be a link aggregator of Sorts.
 [Digitech Profil](https://www.digitec.ch/de/user/simon-schlieber-2175293)
 
 [Simon Schlieber on Reddit](https://new.reddit.com/user/SimonMarcel)
+
+[BioLink](https://bio.link/schlieber)
