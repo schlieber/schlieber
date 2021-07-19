@@ -40,4 +40,4 @@ Currently building up the Site. will be a link aggregator of Sorts.
 
 [Buy Simon Schlieber a coffe](https://www.buymeacoffee.com/schlieber)
 
-[Simon Schlieber iPhone] https://www.digitec.ch/de/s1/product/apple-iphone-7-128gb-jet-black-470-single-sim-12mpx-4g-smartphone-5886542
+[Simon Schlieber iPhone](https://www.digitec.ch/de/s1/product/apple-iphone-7-128gb-jet-black-470-single-sim-12mpx-4g-smartphone-5886542)
