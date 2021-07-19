@@ -43,3 +43,5 @@ Currently building up the Site. will be a link aggregator of Sorts.
 [Simon Schlieber iPhone](https://www.digitec.ch/de/s1/product/apple-iphone-7-128gb-jet-black-470-single-sim-12mpx-4g-smartphone-5886542)
 
 [Digitech Profil](https://www.digitec.ch/de/user/simon-schlieber-2175293)
+
+[Simon Schlieber on Reddit](https://new.reddit.com/user/SimonMarcel)
