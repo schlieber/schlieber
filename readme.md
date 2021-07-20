@@ -47,3 +47,7 @@ Currently building up the Site. will be a link aggregator of Sorts.
 [Simon Schlieber on Reddit](https://new.reddit.com/user/SimonMarcel)
 
 [BioLink](https://bio.link/schlieber)
+
+[Researchgate](https://www.researchgate.net/profile/Simon-Schlieber/)
+
+[medium](https://medium.com/@simon.schlieber)
